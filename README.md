@@ -1,1 +1,1 @@
-# Project-Summaries
+This repository contains a PDF document listing some of my work projects and their respective details. It aims to provide insights into my work capabilities and experiences, offering a comprehensive overview of the projects I have been involved in.
